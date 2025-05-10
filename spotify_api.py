@@ -7,8 +7,8 @@ import json
 
 
 # Spotify API Credentials
-CLIENT_ID = "37c76da637124a1397a88686bc1b8278"
-CLIENT_SECRET = "37c2f9cd367745a1800216e5e166822f"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 REDIRECT_URI = "http://127.0.0.1:8888/callback"  
 SCOPE = "user-top-read"
 
