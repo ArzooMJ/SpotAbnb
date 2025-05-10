@@ -1,5 +1,3 @@
-# AUTHORS: Arzoo Jiwani
-
 ### REQUIRED FILES: ###
 ensure you have a file called .env that contains the following API keys:
 DISCOVERY_KEY = REDACTED
